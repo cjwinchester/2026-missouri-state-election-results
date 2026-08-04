@@ -35,6 +35,8 @@
   <main class="max-w-4xl mx-auto px-4 py-6">
 
     <div class="sticky top-0 z-10 bg-slate-50/95 backdrop-blur pb-4 pt-1 -mt-1">
+      <div id="source-toggle" class="flex gap-2 mb-3" role="tablist" aria-label="Results source"></div>
+
       <label for="search" class="sr-only">Search races or candidates</label>
       <input
         id="search"
@@ -137,6 +139,7 @@ function raceCard(race) {
   const reported = race.precincts?.reported ?? 0;
   const total = race.precincts?.total ?? 0;
   const precinctPct = total > 0 ? Math.round((reported / total) * 1000) / 10 : 0;
+  const watched = !!race.race_to_watch;
 
   const partyOrder = ["Republican", "Democratic", "Libertarian"];
   const parties = Object.keys(race.candidates || {});
@@ -151,10 +154,17 @@ function raceCard(race) {
 
   const groups = parties.map(p => partyGroup(p, race.candidates[p])).join("");
 
+  const cardClasses = watched
+    ? "bg-amber-50 rounded-xl shadow-sm border-2 border-amber-300 p-4 sm:p-5"
+    : "bg-white rounded-xl shadow-sm border border-slate-200 p-4 sm:p-5";
+
   return `
-    <article class="race-card bg-white rounded-xl shadow-sm border border-slate-200 p-4 sm:p-5" data-search="${escapeHtml(raceSearchText(race))}">
+    <article class="race-card ${cardClasses}" data-search="${escapeHtml(raceSearchText(race))}" data-watched="${watched}">
       <div class="flex items-start justify-between gap-3 flex-wrap">
-        <h2 class="text-lg font-semibold text-slate-900">${escapeHtml(race.office)}</h2>
+        <h2 class="text-lg font-semibold text-slate-900 flex items-center gap-2">
+          ${watched ? '<span class="text-amber-500" aria-hidden="true">★</span>' : ''}
+          ${escapeHtml(race.office)}
+        </h2>
         <span class="text-xs text-slate-500 whitespace-nowrap mt-1">
           ${fmtVotes(reported)} of ${fmtVotes(total)} precincts (${precinctPct}%)
         </span>
@@ -176,6 +186,28 @@ function raceSearchText(race) {
   return `${race.office} ${names.join(" ")}`.toLowerCase();
 }
 
+function renderToggle(sources, activeKey, onSelect) {
+  const toggleEl = document.getElementById("source-toggle");
+  toggleEl.innerHTML = Object.keys(sources).map(key => {
+    const active = key === activeKey;
+    const activeClasses = "bg-slate-900 text-white";
+    const inactiveClasses = "bg-white text-slate-600 border border-slate-300 hover:bg-slate-100";
+    return `
+      <button
+        type="button"
+        data-source-key="${escapeHtml(key)}"
+        role="tab"
+        aria-selected="${active}"
+        class="px-4 py-2 rounded-lg text-sm font-medium transition-colors ${active ? activeClasses : inactiveClasses}"
+      >${escapeHtml(sources[key].label || key)}</button>
+    `;
+  }).join("");
+
+  toggleEl.querySelectorAll("button").forEach(btn => {
+    btn.addEventListener("click", () => onSelect(btn.dataset.sourceKey));
+  });
+}
+
 async function init() {
   const racesEl = document.getElementById("races");
   const updatedEl = document.getElementById("updated");
@@ -184,17 +216,12 @@ async function init() {
   const errorEl = document.getElementById("error-state");
   const countEl = document.getElementById("result-count");
 
-  let data = [];
+  let payload;
 
   try {
     const res = await fetch("./2026-08-04-missouri-election-results.json", { cache: "no-store" });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    data = await res.json();
-
-    const lastModified = res.headers.get("Last-Modified");
-    updatedEl.textContent = lastModified
-      ? `Data last updated: ${new Date(lastModified).toLocaleString("en-US")}`
-      : `Data loaded: ${new Date().toLocaleString("en-US")}`;
+    payload = await res.json();
   } catch (err) {
     errorEl.textContent = `Couldn't load results data: ${err.message}`;
     errorEl.classList.remove("hidden");
@@ -202,9 +229,21 @@ async function init() {
     return;
   }
 
-  racesEl.innerHTML = data.map(raceCard).join("");
+  const sources = payload.sources || {};
+  const sourceKeys = Object.keys(sources);
 
-  const cards = Array.from(document.querySelectorAll(".race-card"));
+  if (sourceKeys.length === 0) {
+    errorEl.textContent = "No results sources found in the data file.";
+    errorEl.classList.remove("hidden");
+    return;
+  }
+
+  updatedEl.textContent = payload.updated
+    ? `Data last updated: ${new Date(payload.updated).toLocaleString("en-US")}`
+    : "";
+
+  let activeKey = sourceKeys[0];
+  let cards = [];
 
   function applyFilter() {
     const q = searchEl.value.trim().toLowerCase();
@@ -218,8 +257,42 @@ async function init() {
     countEl.textContent = q ? `${visible} of ${cards.length} races` : `${cards.length} races`;
   }
 
+  function renderSource(key) {
+    activeKey = key;
+    const races = sources[key].races || [];
+
+    const watched = races.filter(r => r.race_to_watch);
+    const rest = races.filter(r => !r.race_to_watch);
+
+    const watchedHtml = watched.length
+      ? `
+        <div class="mb-6">
+          <h2 class="text-sm font-bold uppercase tracking-wide text-amber-700 mb-2 flex items-center gap-1.5">
+            <span aria-hidden="true">★</span> Races to Watch
+          </h2>
+          <div class="space-y-4">${watched.map(raceCard).join("")}</div>
+        </div>
+      `
+      : "";
+
+    const restHtml = rest.map(raceCard).join("");
+
+    racesEl.innerHTML = races.length ? `${watchedHtml}<div class="space-y-4">${restHtml}</div>` : "";
+    cards = Array.from(document.querySelectorAll(".race-card"));
+    renderToggle(sources, activeKey, renderSource);
+
+    if (races.length === 0) {
+      emptyEl.textContent = "No results posted for this source yet.";
+      emptyEl.classList.remove("hidden");
+      countEl.textContent = "0 races";
+    } else {
+      emptyEl.textContent = "No races or candidates match your search.";
+      applyFilter();
+    }
+  }
+
   searchEl.addEventListener("input", applyFilter);
-  applyFilter();
+  renderSource(activeKey);
 }
 
 init();

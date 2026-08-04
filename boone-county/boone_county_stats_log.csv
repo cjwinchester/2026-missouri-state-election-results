@@ -1,0 +1,5 @@
+scraped_at,election_name,election_date,stat,value
+2026-08-04T14:57:51.471036-05:00,General Election,5-Nov-24,Precincts Complete,20 of 62
+2026-08-04T14:57:51.471036-05:00,General Election,5-Nov-24,Registered Voters - Total,"134,321"
+2026-08-04T14:57:51.471036-05:00,General Election,5-Nov-24,Ballots Cast - Total,"45,458"
+2026-08-04T14:57:51.471036-05:00,General Election,5-Nov-24,Voter Turnout - Total,33.84%

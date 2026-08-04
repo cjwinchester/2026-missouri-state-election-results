@@ -1,0 +1,5145 @@
+[
+    {
+        "office": "State Auditor",
+        "precincts": {
+            "reported": 0,
+            "total": 3235
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Scott Fitzpatrick",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Gerald (Jerry) Wistrand Jr.",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Quentin Wilson",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Gregory Upchurch",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Libertarian": [
+                {
+                    "name": "Dustin Coffell",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "U.S. REPRESENTATIVE - DISTRICT 1",
+        "precincts": {
+            "reported": 0,
+            "total": 639
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Paul Berry III",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Andrew Jones",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Alissa Murphy",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Carl E. Harris Sr",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Cori Bush",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Wesley Bell",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Carl Earnest Henderson",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Libertarian": [
+                {
+                    "name": "Tom Schmitz",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "U.S. REPRESENTATIVE - DISTRICT 2",
+        "precincts": {
+            "reported": 0,
+            "total": 644
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Peter A. Pfeifer",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Brandon Wilkinson",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Ann Wagner",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Matthew R. Grant",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Elizabeth Sparks-Holmes",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Timothy D. Bilash",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Joan VonDras",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Fred Wellman",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Libertarian": [
+                {
+                    "name": "Brandon Coulter Daugherty",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "U.S. REPRESENTATIVE - DISTRICT 3",
+        "precincts": {
+            "reported": 0,
+            "total": 295
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "John G Fraser",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Bob Onder",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Bethany E Mann",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Paul T. Wilson",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Tommy Holstein",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Libertarian": [
+                {
+                    "name": "Jim Higgins",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "U.S. REPRESENTATIVE - DISTRICT 4",
+        "precincts": {
+            "reported": 0,
+            "total": 318
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Mark Alford",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Heather Shelton",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Scott Vincent Vera",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Jordan Herrera",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Wayne Russell",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Hartzell Gray 3rd",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "G Rick",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Jeanette Cass",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Ashleigh Rogers",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Randy Miller",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Libertarian": [
+                {
+                    "name": "Thomas Holbrook",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "U.S. REPRESENTATIVE - DISTRICT 5",
+        "precincts": {
+            "reported": 0,
+            "total": 298
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Brad Patty",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Brett Hueffmeier",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Taylor Burks",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Rick Brattin",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Berton A. Knox",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Micah Beebe",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Emanuel Cleaver, II",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Libertarian": [
+                {
+                    "name": "Randall (Randy) Langkraehr",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "U.S. REPRESENTATIVE - DISTRICT 6",
+        "precincts": {
+            "reported": 0,
+            "total": 393
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Jim Ingram",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Chris Stigall",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Nathan Hall Willett",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Cody J. Oshel",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Nathanael Schultz",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Josh Smead",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Scot Pondelick",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Matt Levine",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Libertarian": [
+                {
+                    "name": "Andy Maidment",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "U.S. REPRESENTATIVE - DISTRICT 7",
+        "precincts": {
+            "reported": 0,
+            "total": 289
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "John Casey",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Grayson Hunt",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Eric W. Burlison",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Missi Hesketh",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Libertarian": [
+                {
+                    "name": "Kevin Craig",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "U.S. REPRESENTATIVE - DISTRICT 8",
+        "precincts": {
+            "reported": 0,
+            "total": 392
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Jason T. Smith",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Gordon Heslop",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Chris Reichard",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Frank A. Barnitz",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Libertarian": [
+                {
+                    "name": "Rebecca Sharpe Lombard",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Senator - District 2",
+        "precincts": {
+            "reported": 0,
+            "total": 101
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Nick Schroer",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Susan Shumway",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Michael Sinclair",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Senator - District 4",
+        "precincts": {
+            "reported": 0,
+            "total": 120
+        },
+        "candidates": {
+            "Democratic": [
+                {
+                    "name": "Steve Butz",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Gina Mitten",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Senator - District 6",
+        "precincts": {
+            "reported": 0,
+            "total": 82
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Jake Vogel",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Derrick Spicer",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Lisa Thomas",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Amber Buckles",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Rudy Veit",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Ike Skelton",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "J. Don Salcedo",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Senator - District 8",
+        "precincts": {
+            "reported": 0,
+            "total": 64
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Jon Patterson",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Dan Stacy",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Keri Ingle",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Senator - District 10",
+        "precincts": {
+            "reported": 0,
+            "total": 94
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Tricia Byrnes",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Mike Deering",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "John Wells",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Pablo John Los",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Senator - District 12",
+        "precincts": {
+            "reported": 0,
+            "total": 170
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Rusty Black",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Judy McNeece",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Senator - District 14",
+        "precincts": {
+            "reported": 0,
+            "total": 215
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Vernon Norman",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "John Bowman",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Shante Duncan",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Joseph (Joe) Palm",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Raychel Proudie",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Senator - District 16",
+        "precincts": {
+            "reported": 0,
+            "total": 72
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Bill Hardwick",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Philip Lohmann",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Don Mayhew",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Hannah Kelly",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Virginia Staabs",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Senator - District 18",
+        "precincts": {
+            "reported": 0,
+            "total": 137
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Dusty Blue",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Ed Lewis",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Greg Sharpe",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Nick Miller",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "John Leykamp",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Senator - District 20",
+        "precincts": {
+            "reported": 0,
+            "total": 68
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Lori Rook",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Curtis Trent",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Sean Falconer",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Senator - District 22",
+        "precincts": {
+            "reported": 0,
+            "total": 42
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Jim Avery",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Jeff Abney",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Senator - District 24",
+        "precincts": {
+            "reported": 0,
+            "total": 199
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "LaVanna Wrobley",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Tracy McCreery",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Senator - District 26",
+        "precincts": {
+            "reported": 0,
+            "total": 136
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Ben Brown",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Vicky Wors",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Senator - District 28",
+        "precincts": {
+            "reported": 0,
+            "total": 107
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Sam Alexander",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Brad Pollitt",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Chuck Lentz",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Mike McCaffree",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Senator - District 30",
+        "precincts": {
+            "reported": 0,
+            "total": 38
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Melanie Stinnett",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Betsy Fogle",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Libertarian": [
+                {
+                    "name": "Cecil Ince",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Senator - District 32",
+        "precincts": {
+            "reported": 0,
+            "total": 74
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Ellen Nichols",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Jill Carter",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Imma J Curl",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Senator - District 34",
+        "precincts": {
+            "reported": 0,
+            "total": 50
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Sean Pouche",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Mike Jones",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Ryan Gerster",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Shereka Barnes",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Pam May",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 1",
+        "precincts": {
+            "reported": 0,
+            "total": 36
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Jeff Farnan",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 2",
+        "precincts": {
+            "reported": 0,
+            "total": 45
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Freddie Griffin Jr",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Phil Fox",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Brandon Harvey",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Casey Scott",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Libertarian": [
+                {
+                    "name": "Shelby Dreier",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 3",
+        "precincts": {
+            "reported": 0,
+            "total": 31
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Jason L Soseman",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Todd Caraway",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "P. Jeremy Mosley",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Corey Luebbering",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 4",
+        "precincts": {
+            "reported": 0,
+            "total": 39
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Keith Gudehus",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Tristan Sutton",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 5",
+        "precincts": {
+            "reported": 0,
+            "total": 25
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Justin Barnhart",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Roth Mcelvain",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Rose Ghattas",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Lyndon Bode",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "John Paul Tomko",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 6",
+        "precincts": {
+            "reported": 0,
+            "total": 26
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Kelly Gatts",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Robert Johnson",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Libertarian": [
+                {
+                    "name": "John Davison",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 7",
+        "precincts": {
+            "reported": 0,
+            "total": 41
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Megan J. Hall",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Josh Muck",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Jeremy Clevenger",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Adrian Cooper",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 8",
+        "precincts": {
+            "reported": 0,
+            "total": 16
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Josh Hurlbert",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Amy Minich",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 9",
+        "precincts": {
+            "reported": 0,
+            "total": 24
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Dean VanSchoiack",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Gena Puckett",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 10",
+        "precincts": {
+            "reported": 0,
+            "total": 10
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Paul Gatewood",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Skylar J. Smith",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "LaTonya T. Williams",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 11",
+        "precincts": {
+            "reported": 0,
+            "total": 12
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Taylor Crouse",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Tina Goodrick",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Luke Rae",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 12",
+        "precincts": {
+            "reported": 0,
+            "total": 11
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Jerry Hickey",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Tracey Steele",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 13",
+        "precincts": {
+            "reported": 0,
+            "total": 23
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "John Elliott",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Jacoby Wynkoop",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 14",
+        "precincts": {
+            "reported": 0,
+            "total": 16
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Frank Pendleton",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Ashley Aune",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 15",
+        "precincts": {
+            "reported": 0,
+            "total": 15
+        },
+        "candidates": {
+            "Democratic": [
+                {
+                    "name": "Kenneth Jamison",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 16",
+        "precincts": {
+            "reported": 0,
+            "total": 10
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Chris Brown",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Dan Kinate",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 17",
+        "precincts": {
+            "reported": 0,
+            "total": 15
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Bill Allen",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Susan Hoisington",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Shawna Ackerson",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 18",
+        "precincts": {
+            "reported": 0,
+            "total": 12
+        },
+        "candidates": {
+            "Democratic": [
+                {
+                    "name": "Eric Woods",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 19",
+        "precincts": {
+            "reported": 0,
+            "total": 15
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Karen Irene Spalding",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Wick Thomas",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 20",
+        "precincts": {
+            "reported": 0,
+            "total": 17
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Mike Steinmeyer",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Noah Worcester",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Jeff Spicer",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 21",
+        "precincts": {
+            "reported": 0,
+            "total": 10
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Michael Young",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Will Jobe",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 22",
+        "precincts": {
+            "reported": 0,
+            "total": 15
+        },
+        "candidates": {
+            "Democratic": [
+                {
+                    "name": "Yolanda Young",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 23",
+        "precincts": {
+            "reported": 0,
+            "total": 11
+        },
+        "candidates": {
+            "Democratic": [
+                {
+                    "name": "Tony L. Van Trece",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 24",
+        "precincts": {
+            "reported": 0,
+            "total": 13
+        },
+        "candidates": {
+            "Democratic": [
+                {
+                    "name": "Kevin Garner",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 25",
+        "precincts": {
+            "reported": 0,
+            "total": 12
+        },
+        "candidates": {
+            "Democratic": [
+                {
+                    "name": "Pattie Mansur",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 26",
+        "precincts": {
+            "reported": 0,
+            "total": 13
+        },
+        "candidates": {
+            "Democratic": [
+                {
+                    "name": "Tiffany Price",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 27",
+        "precincts": {
+            "reported": 0,
+            "total": 15
+        },
+        "candidates": {
+            "Democratic": [
+                {
+                    "name": "Melissa A Douglas",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 28",
+        "precincts": {
+            "reported": 0,
+            "total": 10
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Steven W Hinton",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Mike Sager",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Donna Barnes",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 29",
+        "precincts": {
+            "reported": 0,
+            "total": 12
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Robert Bruette",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Tedi H. Rowland",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 30",
+        "precincts": {
+            "reported": 0,
+            "total": 13
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Phyllis Edson",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Jeff Martin",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Kevin Grover",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 31",
+        "precincts": {
+            "reported": 0,
+            "total": 13
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Ron Fowler",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Justin Geiser",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 32",
+        "precincts": {
+            "reported": 0,
+            "total": 22
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Michael Todd",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Jennifer Cassidy",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 33",
+        "precincts": {
+            "reported": 0,
+            "total": 21
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Carolyn Caton",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Troy Latterell",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 34",
+        "precincts": {
+            "reported": 0,
+            "total": 12
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Sean Smith",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Kemp Strickler",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 35",
+        "precincts": {
+            "reported": 0,
+            "total": 13
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Jacquie Aziere Stenger",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Michael Scott",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 36",
+        "precincts": {
+            "reported": 0,
+            "total": 12
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Dave Thomas",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Anthony T. Ealy Jr.",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 37",
+        "precincts": {
+            "reported": 0,
+            "total": 12
+        },
+        "candidates": {
+            "Democratic": [
+                {
+                    "name": "Karissa Marie Varga",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 38",
+        "precincts": {
+            "reported": 0,
+            "total": 13
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Mary Hill",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Martin (Marty) Jacobs",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 39",
+        "precincts": {
+            "reported": 0,
+            "total": 16
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Mark Meirath",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Tanya Lakins",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Dustin Charles Lloyd",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 40",
+        "precincts": {
+            "reported": 0,
+            "total": 22
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Chad Perkins",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Thomas D McBeth",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Libertarian": [
+                {
+                    "name": "Sheri Jay",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 41",
+        "precincts": {
+            "reported": 0,
+            "total": 12
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Doyle Justus",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Matthew Beger",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Libertarian": [
+                {
+                    "name": "Dalton P. Johnson",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 42",
+        "precincts": {
+            "reported": 0,
+            "total": 32
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Jeff Myers",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Amy Pritchard",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 43",
+        "precincts": {
+            "reported": 0,
+            "total": 42
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Brendan Webber",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Rich Gold",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 44",
+        "precincts": {
+            "reported": 0,
+            "total": 19
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "John Martin",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Bekki Brewer",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 45",
+        "precincts": {
+            "reported": 0,
+            "total": 13
+        },
+        "candidates": {
+            "Democratic": [
+                {
+                    "name": "Kathy Steinhoff",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 46",
+        "precincts": {
+            "reported": 0,
+            "total": 16
+        },
+        "candidates": {
+            "Democratic": [
+                {
+                    "name": "David Tyson Smith",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 47",
+        "precincts": {
+            "reported": 0,
+            "total": 22
+        },
+        "candidates": {
+            "Democratic": [
+                {
+                    "name": "Adrian Plank",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 48",
+        "precincts": {
+            "reported": 0,
+            "total": 37
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Tim Taylor",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Hope Tinker",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 49",
+        "precincts": {
+            "reported": 0,
+            "total": 16
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Jim Schulte",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Jessica O'Neal-Slisz",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 50",
+        "precincts": {
+            "reported": 0,
+            "total": 18
+        },
+        "candidates": {
+            "Democratic": [
+                {
+                    "name": "Gregg Bush",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 51",
+        "precincts": {
+            "reported": 0,
+            "total": 27
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Stephanie Gooden",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Ron Fauss",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 52",
+        "precincts": {
+            "reported": 0,
+            "total": 11
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Israel Baeza",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Philip J. Sherman",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Rene Vance",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 53",
+        "precincts": {
+            "reported": 0,
+            "total": 15
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Terry Thompson",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Beth Grubb",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 54",
+        "precincts": {
+            "reported": 0,
+            "total": 8
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Joe Plemons",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Brandon Phelps",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Taigan Rayne Plummer",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 55",
+        "precincts": {
+            "reported": 0,
+            "total": 20
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "William (Bill) Irwin",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Jon Pennell",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 56",
+        "precincts": {
+            "reported": 0,
+            "total": 16
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Michael Davis",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Steve Baker",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Staci Czar",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Mitch Mullvain",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 57",
+        "precincts": {
+            "reported": 0,
+            "total": 17
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Matt Sergent",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Michael D. Walbom",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 58",
+        "precincts": {
+            "reported": 0,
+            "total": 24
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Willard Haley",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Roger Korenberg",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 59",
+        "precincts": {
+            "reported": 0,
+            "total": 19
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Vic Rackers",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Carrie Tergin",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Glenn Reynolds",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Becky Kroll",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 60",
+        "precincts": {
+            "reported": 0,
+            "total": 15
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Scott Spencer",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Kyerra Johnson",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Shane Kampeter",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Suzanne Luther",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 61",
+        "precincts": {
+            "reported": 0,
+            "total": 45
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "John Grady",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Bruce Sassmann",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Stacy Bax",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 62",
+        "precincts": {
+            "reported": 0,
+            "total": 25
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Sherri Gallick",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Liz Davenport",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 63",
+        "precincts": {
+            "reported": 0,
+            "total": 17
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Tony Lovasco",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Donald R Looney Jr",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 64",
+        "precincts": {
+            "reported": 0,
+            "total": 31
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Jason Iannantuoni",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Deanna Self",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Amber Teson",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 65",
+        "precincts": {
+            "reported": 0,
+            "total": 27
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Wendy L. Hausman",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Dale Conoyer",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 66",
+        "precincts": {
+            "reported": 0,
+            "total": 30
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Laura Mitchell-Riley",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Marlene Terry",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Theresa Hester",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 67",
+        "precincts": {
+            "reported": 0,
+            "total": 23
+        },
+        "candidates": {
+            "Democratic": [
+                {
+                    "name": "Tonya Rush",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 68",
+        "precincts": {
+            "reported": 0,
+            "total": 33
+        },
+        "candidates": {
+            "Democratic": [
+                {
+                    "name": "Kem Smith",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Janay Mosley",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 69",
+        "precincts": {
+            "reported": 0,
+            "total": 18
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Scott Miller",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Chris Chapman",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 70",
+        "precincts": {
+            "reported": 0,
+            "total": 47
+        },
+        "candidates": {
+            "Democratic": [
+                {
+                    "name": "Stephanie Boykin",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 71",
+        "precincts": {
+            "reported": 0,
+            "total": 40
+        },
+        "candidates": {
+            "Democratic": [
+                {
+                    "name": "Nicole Greer",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 72",
+        "precincts": {
+            "reported": 0,
+            "total": 34
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Jeffrey Jacks",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Patrick James Wroblewski",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 73",
+        "precincts": {
+            "reported": 0,
+            "total": 40
+        },
+        "candidates": {
+            "Democratic": [
+                {
+                    "name": "Kennedy Moore",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Mike Person",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Henry Iwenofu",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Demetrius D. Upchurch Sr.",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Libertarian": [
+                {
+                    "name": "Joy Denise Dabney",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 74",
+        "precincts": {
+            "reported": 0,
+            "total": 74
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Jack Howard",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Marla Smith",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Maria A. Miller",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 75",
+        "precincts": {
+            "reported": 0,
+            "total": 35
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Brandon Wilke",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Chanel Mosley",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Chris Brown",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 76",
+        "precincts": {
+            "reported": 0,
+            "total": 28
+        },
+        "candidates": {
+            "Democratic": [
+                {
+                    "name": "Marlon Anderson",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 77",
+        "precincts": {
+            "reported": 0,
+            "total": 21
+        },
+        "candidates": {
+            "Democratic": [
+                {
+                    "name": "Kimberly-Ann Collins",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Libertarian": [
+                {
+                    "name": "Michael Corey",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 78",
+        "precincts": {
+            "reported": 0,
+            "total": 22
+        },
+        "candidates": {
+            "Democratic": [
+                {
+                    "name": "Marty Joe Murray",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 79",
+        "precincts": {
+            "reported": 0,
+            "total": 21
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Mike Hebron",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Rachel D'Souza",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Adam S. Hopkins",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Helen Bailey",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 80",
+        "precincts": {
+            "reported": 0,
+            "total": 22
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Jennie Drag",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Elizabeth (Lilly) Fuchs",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 81",
+        "precincts": {
+            "reported": 0,
+            "total": 30
+        },
+        "candidates": {
+            "Democratic": [
+                {
+                    "name": "Tony Kirchner",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Aaron Nathaniel Clite",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "James (Jimmy) Lappe",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 82",
+        "precincts": {
+            "reported": 0,
+            "total": 19
+        },
+        "candidates": {
+            "Democratic": [
+                {
+                    "name": "Nick Kimble",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 83",
+        "precincts": {
+            "reported": 0,
+            "total": 30
+        },
+        "candidates": {
+            "Democratic": [
+                {
+                    "name": "David Dimmitt",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Ray Reed",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Libertarian": [
+                {
+                    "name": "Andrew Bolin",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 84",
+        "precincts": {
+            "reported": 0,
+            "total": 21
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Robert Vroman",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Del Taylor",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 85",
+        "precincts": {
+            "reported": 0,
+            "total": 45
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Jerron J Sutton",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Yolonda Fountain Henderson",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Marie Yonnee Fortson",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 86",
+        "precincts": {
+            "reported": 0,
+            "total": 22
+        },
+        "candidates": {
+            "Democratic": [
+                {
+                    "name": "Jeff Hales",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 87",
+        "precincts": {
+            "reported": 0,
+            "total": 40
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Dan Hyatt",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Connie Steinmetz",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 88",
+        "precincts": {
+            "reported": 0,
+            "total": 31
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Holly Jones",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Jennifer Trickey",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 89",
+        "precincts": {
+            "reported": 0,
+            "total": 55
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "George Hruza",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Bryan Troop",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 90",
+        "precincts": {
+            "reported": 0,
+            "total": 28
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Ryan William Sheridan",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Mark Boyko",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 91",
+        "precincts": {
+            "reported": 0,
+            "total": 32
+        },
+        "candidates": {
+            "Democratic": [
+                {
+                    "name": "Jo Doll",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 92",
+        "precincts": {
+            "reported": 0,
+            "total": 38
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Kenneth Abram",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Mirhad Hasanovic",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Michael Burton",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 93",
+        "precincts": {
+            "reported": 0,
+            "total": 31
+        },
+        "candidates": {
+            "Democratic": [
+                {
+                    "name": "Bridget Walsh Moore",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 94",
+        "precincts": {
+            "reported": 0,
+            "total": 24
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Maryellen Murphy",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Cathy A Summers",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 95",
+        "precincts": {
+            "reported": 0,
+            "total": 23
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Bob Mahacek",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Meredith Sumenek",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 96",
+        "precincts": {
+            "reported": 0,
+            "total": 43
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Brad Christ",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Matt Vitale",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Libertarian": [
+                {
+                    "name": "Shane Ferguson",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 97",
+        "precincts": {
+            "reported": 0,
+            "total": 10
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "David Casteel",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "David Robertson",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Dan Schaefer",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 98",
+        "precincts": {
+            "reported": 0,
+            "total": 39
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Timothy Bosch",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Jaclyn Zimmermann",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 99",
+        "precincts": {
+            "reported": 0,
+            "total": 31
+        },
+        "candidates": {
+            "Democratic": [
+                {
+                    "name": "Boris Abadzhyan",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Sidney Clark",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Tori Schafer",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Nathan Mai-Lombardo",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 100",
+        "precincts": {
+            "reported": 0,
+            "total": 34
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Philip Oehlerking",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Mary Ann Perkins",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Libertarian": [
+                {
+                    "name": "Ken Newhouse",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 101",
+        "precincts": {
+            "reported": 0,
+            "total": 30
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Ben Keathley",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Paul Lentz",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Richard Smreker",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Libertarian": [
+                {
+                    "name": "Jeff Coleman",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 102",
+        "precincts": {
+            "reported": 0,
+            "total": 31
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Richard W West",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "David Rogers",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 103",
+        "precincts": {
+            "reported": 0,
+            "total": 32
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Dave Hinman",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Don Crozier",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 104",
+        "precincts": {
+            "reported": 0,
+            "total": 14
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Terri Violet",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Tara Murray",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 105",
+        "precincts": {
+            "reported": 0,
+            "total": 17
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Colin Wellenkamp",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Cat Clayton",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 106",
+        "precincts": {
+            "reported": 0,
+            "total": 16
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Travis Wilson",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Chris Sander",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Jewel Kelly",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 107",
+        "precincts": {
+            "reported": 0,
+            "total": 19
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Mark Matthiesen",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Gary Wester",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 108",
+        "precincts": {
+            "reported": 0,
+            "total": 15
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Mike Costlow",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Max Calfo",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Stephen Scott",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 109",
+        "precincts": {
+            "reported": 0,
+            "total": 28
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "John Simmons",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Trent Leslie",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 110",
+        "precincts": {
+            "reported": 0,
+            "total": 43
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Gary Wiegert",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Niles Stephens",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Claire Heinrich",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 111",
+        "precincts": {
+            "reported": 0,
+            "total": 12
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Cecelie Williams",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Stacey Hagen",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 112",
+        "precincts": {
+            "reported": 0,
+            "total": 11
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Ed Callahan",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Dave Rekosh",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 113",
+        "precincts": {
+            "reported": 0,
+            "total": 11
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Phil Amato",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Ashley Drury",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 114",
+        "precincts": {
+            "reported": 0,
+            "total": 11
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "David (Dave) Broach",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Ann Moloney",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Jessie Shepherd",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 115",
+        "precincts": {
+            "reported": 0,
+            "total": 15
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Bill Lucas",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "David George",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 116",
+        "precincts": {
+            "reported": 0,
+            "total": 17
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Jason Green",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "David Todd",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Whitney Wisker-Brooks",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 117",
+        "precincts": {
+            "reported": 0,
+            "total": 19
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Becky Laubinger",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Eli Flowers",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 118",
+        "precincts": {
+            "reported": 0,
+            "total": 38
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Amy DeClue",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Sarah Rachel Puckett",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 119",
+        "precincts": {
+            "reported": 0,
+            "total": 18
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Brad Banderman",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Amy Thompson",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 120",
+        "precincts": {
+            "reported": 0,
+            "total": 17
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "John W Hewkin",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Ray Bruno",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 121",
+        "precincts": {
+            "reported": 0,
+            "total": 5
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Ben Rudy",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Keith Pritchard",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Charles Slider",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Miguel Arellanes",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 122",
+        "precincts": {
+            "reported": 0,
+            "total": 5
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Tara J Peters",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Dan Victor",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 123",
+        "precincts": {
+            "reported": 0,
+            "total": 16
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Jeff Vernetti",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Cody Hutcheson",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 124",
+        "precincts": {
+            "reported": 0,
+            "total": 20
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Tony Laszacs",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Chris Webery",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Kevin Onstott",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Tara Hallmark",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 125",
+        "precincts": {
+            "reported": 0,
+            "total": 26
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Dane Diehl",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Lynda C Jones",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 126",
+        "precincts": {
+            "reported": 0,
+            "total": 28
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Jim Kalberloh",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Melissa Perry",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 127",
+        "precincts": {
+            "reported": 0,
+            "total": 37
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Ryan Hagedorn",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Brenden J. Kelley",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Marvin Manring",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 128",
+        "precincts": {
+            "reported": 0,
+            "total": 29
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Christopher D. Warwick",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Michael L. Martin",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 129",
+        "precincts": {
+            "reported": 0,
+            "total": 12
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Levi Lansdown",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Stan Coday",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Will Worsham",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "John Gray",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 130",
+        "precincts": {
+            "reported": 0,
+            "total": 17
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Bishop Davidson",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Leslie Jones",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 131",
+        "precincts": {
+            "reported": 0,
+            "total": 24
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Bill Owen",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Ashley Cossins",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 132",
+        "precincts": {
+            "reported": 0,
+            "total": 18
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Russ Gosselin",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Jeremy Dean",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 133",
+        "precincts": {
+            "reported": 0,
+            "total": 18
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Jerry Angelo",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Katelyn Zach",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 134",
+        "precincts": {
+            "reported": 0,
+            "total": 16
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Alex Riley",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "K. Grant",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 135",
+        "precincts": {
+            "reported": 0,
+            "total": 19
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Michael Hasty",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "John Michael (Johnny) Chiles",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 136",
+        "precincts": {
+            "reported": 0,
+            "total": 22
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Jacey Buckles",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Stephanie Hein",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 137",
+        "precincts": {
+            "reported": 0,
+            "total": 19
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Darin Chappell",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Bryce F. Lockwood",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 138",
+        "precincts": {
+            "reported": 0,
+            "total": 27
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Tom Franiak",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Burt Whaley",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Chris Daugherty",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 139",
+        "precincts": {
+            "reported": 0,
+            "total": 14
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Sandy Karnes",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Bob Titus",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 140",
+        "precincts": {
+            "reported": 0,
+            "total": 13
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Jamie Ray Gragg",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Angela Romine",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Julia E. Curran",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 141",
+        "precincts": {
+            "reported": 0,
+            "total": 33
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Melissa Schmidt",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Darrel (Mike) Swofford",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 142",
+        "precincts": {
+            "reported": 0,
+            "total": 29
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Jeff Brown",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Royce E. Tuck",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Josh Ray",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 143",
+        "precincts": {
+            "reported": 0,
+            "total": 35
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Bennie Cook",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Marsha Snodgrass",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 144",
+        "precincts": {
+            "reported": 0,
+            "total": 54
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Chris Dodson Dinkins",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Tony Harbison",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Andrew J Eye",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 145",
+        "precincts": {
+            "reported": 0,
+            "total": 25
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Bryant Wolfin",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Scott A Sattler",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Carl Kinsky",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 146",
+        "precincts": {
+            "reported": 0,
+            "total": 22
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Lucas Green",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Mary Harriet Talbut",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 147",
+        "precincts": {
+            "reported": 0,
+            "total": 15
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "John Voss",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Tim Palmer",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Libertarian": [
+                {
+                    "name": "Greg Tlapek",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 148",
+        "precincts": {
+            "reported": 0,
+            "total": 21
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "David A. Dolan",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Casey Carlisle",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 149",
+        "precincts": {
+            "reported": 0,
+            "total": 31
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Scott Crumpecker",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "John Armbruster",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 150",
+        "precincts": {
+            "reported": 0,
+            "total": 31
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Cameron Bunting Parker",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 151",
+        "precincts": {
+            "reported": 0,
+            "total": 21
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Steve W Jordan",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Pam Proffitt-Rowland",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 152",
+        "precincts": {
+            "reported": 0,
+            "total": 20
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Jeff Shawan",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Ken Davis",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Corretta Bishop",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 153",
+        "precincts": {
+            "reported": 0,
+            "total": 35
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Keith Wayne Elliott",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Les Majors",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 154",
+        "precincts": {
+            "reported": 0,
+            "total": 21
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Lisa K Durnell",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Travis Mitchell Smith",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Jojo Stewart",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 155",
+        "precincts": {
+            "reported": 0,
+            "total": 46
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Matthew Overcast",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Joshua Berzins",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 156",
+        "precincts": {
+            "reported": 0,
+            "total": 21
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Brian H. Seitz",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Trent Davis",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 157",
+        "precincts": {
+            "reported": 0,
+            "total": 20
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Mitch Boggs",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Bradley Bos",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 158",
+        "precincts": {
+            "reported": 0,
+            "total": 20
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Scott Cupps",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Chris Foster",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 159",
+        "precincts": {
+            "reported": 0,
+            "total": 39
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Joel Mace",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Mark Bartley",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 160",
+        "precincts": {
+            "reported": 0,
+            "total": 24
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Chris Wright",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Jonathan Russell",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Cheryle Perkins",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Angela Thomas",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 161",
+        "precincts": {
+            "reported": 0,
+            "total": 18
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Thomas Ross",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Louise Curchin Secker",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Aaron Joseph Metzger",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 162",
+        "precincts": {
+            "reported": 0,
+            "total": 22
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Walter Hayes",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Roger Koch",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "State Representative - District 163",
+        "precincts": {
+            "reported": 0,
+            "total": 22
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Cathy Jo Loy",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ],
+            "Democratic": [
+                {
+                    "name": "Brenna Barksdale",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "Circuit Judge - Circuit 11 Division 1",
+        "precincts": {
+            "reported": 0,
+            "total": 117
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Brittney R. Smith",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "Circuit Judge - Circuit 13 Division 4",
+        "precincts": {
+            "reported": 0,
+            "total": 73
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Josh Devine",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "Circuit Judge - Circuit 19 Division 2",
+        "precincts": {
+            "reported": 0,
+            "total": 29
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Daniel Green",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "Circuit Judge - Circuit 19 Division 3",
+        "precincts": {
+            "reported": 0,
+            "total": 29
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Cotton Walker",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "Jeff Suddy",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "Circuit Judge - Circuit 23 Division 2",
+        "precincts": {
+            "reported": 0,
+            "total": 53
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Edward L Page",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "Circuit Judge - Circuit 26 Division 3",
+        "precincts": {
+            "reported": 0,
+            "total": 68
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Aaron Koeppen",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "Circuit Judge - Circuit 32 Division 1",
+        "precincts": {
+            "reported": 0,
+            "total": 53
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Scott A. Lipke",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "Circuit Judge - Circuit 36",
+        "precincts": {
+            "reported": 0,
+            "total": 35
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Kacey L. Proctor",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "Circuit Judge - Circuit 42 Division 2",
+        "precincts": {
+            "reported": 0,
+            "total": 48
+        },
+        "candidates": {
+            "Republican": [
+                {
+                    "name": "Michael Randazzo",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "Constitutional Amendment No. 1",
+        "precincts": {
+            "reported": 0,
+            "total": 3235
+        },
+        "candidates": {
+            "": [
+                {
+                    "name": "YES",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "NO",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "Constitutional Amendment No. 2",
+        "precincts": {
+            "reported": 0,
+            "total": 3235
+        },
+        "candidates": {
+            "": [
+                {
+                    "name": "YES",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "NO",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    },
+    {
+        "office": "Constitutional Amendment No. 4",
+        "precincts": {
+            "reported": 0,
+            "total": 3235
+        },
+        "candidates": {
+            "": [
+                {
+                    "name": "YES",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                },
+                {
+                    "name": "NO",
+                    "votes": 0,
+                    "vote_pct": "0.000%"
+                }
+            ]
+        }
+    }
+]

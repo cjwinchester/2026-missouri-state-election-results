@@ -190,6 +190,9 @@ requires-dist = [
     { name = "requests", specifier = ">=2.34.2" },
 ]
 
+[package.metadata.requires-dev]
+dev = []
+
 [[package]]
 name = "playwright"
 version = "1.62.0"

@@ -9,3 +9,6 @@ dependencies = [
     "playwright>=1.62.0",
     "requests>=2.34.2",
 ]
+
+[dependency-groups]
+dev = []

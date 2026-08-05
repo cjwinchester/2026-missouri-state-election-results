@@ -128,7 +128,7 @@ def scrape_state_results():
 
         current_office["candidates"][party].append({
             "name": name,
-            "votes": int(votes),
+            "votes": int(votes.replace(",", "")),
             "vote_pct": vote_pct
         })
 

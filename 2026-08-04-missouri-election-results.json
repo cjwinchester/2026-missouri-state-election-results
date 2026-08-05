@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T18:32:06.535537-05:00",
+  "updated": "2026-08-04T19:50:40.503493-05:00",
   "sources": {
     "state": {
       "label": "Statewide",
@@ -7,39 +7,39 @@
         {
           "office": "State Auditor",
           "precincts": {
-            "reported": 0,
+            "reported": 9,
             "total": 3235
           },
           "candidates": {
             "Republican": [
               {
                 "name": "Scott Fitzpatrick",
-                "votes": 0,
-                "vote_pct": "0.000%"
+                "votes": 893,
+                "vote_pct": "83.693%"
               },
               {
                 "name": "Gerald (Jerry) Wistrand Jr.",
-                "votes": 0,
-                "vote_pct": "0.000%"
+                "votes": 174,
+                "vote_pct": "16.307%"
               }
             ],
             "Democratic": [
               {
                 "name": "Quentin Wilson",
-                "votes": 0,
-                "vote_pct": "0.000%"
+                "votes": 89,
+                "vote_pct": "51.744%"
               },
               {
                 "name": "Gregory Upchurch",
-                "votes": 0,
-                "vote_pct": "0.000%"
+                "votes": 83,
+                "vote_pct": "48.256%"
               }
             ],
             "Libertarian": [
               {
                 "name": "Dustin Coffell",
-                "votes": 0,
-                "vote_pct": "0.000%"
+                "votes": 3,
+                "vote_pct": "100.000%"
               }
             ]
           }
@@ -280,7 +280,7 @@
         {
           "office": "U.S. REPRESENTATIVE - DISTRICT 5",
           "precincts": {
-            "reported": 0,
+            "reported": 1,
             "total": 298
           },
           "candidates": {
@@ -335,59 +335,59 @@
         {
           "office": "U.S. REPRESENTATIVE - DISTRICT 6",
           "precincts": {
-            "reported": 0,
+            "reported": 7,
             "total": 393
           },
           "candidates": {
             "Republican": [
               {
                 "name": "Jim Ingram",
-                "votes": 0,
-                "vote_pct": "0.000%"
+                "votes": 212,
+                "vote_pct": "20.268%"
               },
               {
                 "name": "Chris Stigall",
-                "votes": 0,
-                "vote_pct": "0.000%"
+                "votes": 321,
+                "vote_pct": "30.688%"
               },
               {
                 "name": "Nathan Hall Willett",
-                "votes": 0,
-                "vote_pct": "0.000%"
+                "votes": 278,
+                "vote_pct": "26.577%"
               },
               {
                 "name": "Cody J. Oshel",
-                "votes": 0,
-                "vote_pct": "0.000%"
+                "votes": 38,
+                "vote_pct": "3.633%"
               },
               {
                 "name": "Nathanael Schultz",
-                "votes": 0,
-                "vote_pct": "0.000%"
+                "votes": 197,
+                "vote_pct": "18.834%"
               }
             ],
             "Democratic": [
               {
                 "name": "Josh Smead",
-                "votes": 0,
-                "vote_pct": "0.000%"
+                "votes": 65,
+                "vote_pct": "38.235%"
               },
               {
                 "name": "Scot Pondelick",
-                "votes": 0,
-                "vote_pct": "0.000%"
+                "votes": 33,
+                "vote_pct": "19.412%"
               },
               {
                 "name": "Matt Levine",
-                "votes": 0,
-                "vote_pct": "0.000%"
+                "votes": 72,
+                "vote_pct": "42.353%"
               }
             ],
             "Libertarian": [
               {
                 "name": "Andy Maidment",
-                "votes": 0,
-                "vote_pct": "0.000%"
+                "votes": 3,
+                "vote_pct": "100.000%"
               }
             ]
           }
@@ -524,7 +524,7 @@
         {
           "office": "State Senator - District 6",
           "precincts": {
-            "reported": 0,
+            "reported": 1,
             "total": 82
           },
           "candidates": {
@@ -633,7 +633,7 @@
         {
           "office": "State Senator - District 12",
           "precincts": {
-            "reported": 0,
+            "reported": 5,
             "total": 170
           },
           "candidates": {
@@ -732,37 +732,37 @@
         {
           "office": "State Senator - District 18",
           "precincts": {
-            "reported": 0,
+            "reported": 2,
             "total": 137
           },
           "candidates": {
             "Republican": [
               {
                 "name": "Dusty Blue",
-                "votes": 0,
-                "vote_pct": "0.000%"
+                "votes": 468,
+                "vote_pct": "37.651%"
               },
               {
                 "name": "Ed Lewis",
-                "votes": 0,
-                "vote_pct": "0.000%"
+                "votes": 181,
+                "vote_pct": "14.562%"
               },
               {
                 "name": "Greg Sharpe",
-                "votes": 0,
-                "vote_pct": "0.000%"
+                "votes": 594,
+                "vote_pct": "47.788%"
               }
             ],
             "Democratic": [
               {
                 "name": "Nick Miller",
-                "votes": 0,
-                "vote_pct": "0.000%"
+                "votes": 111,
+                "vote_pct": "65.294%"
               },
               {
                 "name": "John Leykamp",
-                "votes": 0,
-                "vote_pct": "0.000%"
+                "votes": 59,
+                "vote_pct": "34.706%"
               }
             ]
           }
@@ -996,7 +996,7 @@
         {
           "office": "State Representative - District 1",
           "precincts": {
-            "reported": 0,
+            "reported": 5,
             "total": 36
           },
           "candidates": {
@@ -1085,22 +1085,22 @@
         {
           "office": "State Representative - District 4",
           "precincts": {
-            "reported": 0,
+            "reported": 2,
             "total": 39
           },
           "candidates": {
             "Republican": [
               {
                 "name": "Keith Gudehus",
-                "votes": 0,
-                "vote_pct": "0.000%"
+                "votes": 974,
+                "vote_pct": "100.000%"
               }
             ],
             "Democratic": [
               {
                 "name": "Tristan Sutton",
-                "votes": 0,
-                "vote_pct": "0.000%"
+                "votes": 160,
+                "vote_pct": "100.000%"
               }
             ]
           }
@@ -2360,7 +2360,7 @@
         {
           "office": "State Representative - District 59",
           "precincts": {
-            "reported": 0,
+            "reported": 1,
             "total": 19
           },
           "candidates": {
@@ -2393,7 +2393,7 @@
         {
           "office": "State Representative - District 60",
           "precincts": {
-            "reported": 0,
+            "reported": 1,
             "total": 15
           },
           "candidates": {
@@ -4973,7 +4973,7 @@
         {
           "office": "Circuit Judge - Circuit 19 Division 2",
           "precincts": {
-            "reported": 0,
+            "reported": 1,
             "total": 29
           },
           "candidates": {
@@ -4989,7 +4989,7 @@
         {
           "office": "Circuit Judge - Circuit 19 Division 3",
           "precincts": {
-            "reported": 0,
+            "reported": 1,
             "total": 29
           },
           "candidates": {
@@ -5090,20 +5090,20 @@
         {
           "office": "Constitutional Amendment No. 1",
           "precincts": {
-            "reported": 0,
+            "reported": 2,
             "total": 3235
           },
           "candidates": {
             "": [
               {
                 "name": "YES",
-                "votes": 0,
-                "vote_pct": "0.000%"
+                "votes": 1117,
+                "vote_pct": "75.118%"
               },
               {
                 "name": "NO",
-                "votes": 0,
-                "vote_pct": "0.000%"
+                "votes": 370,
+                "vote_pct": "24.882%"
               }
             ]
           },
@@ -5112,20 +5112,20 @@
         {
           "office": "Constitutional Amendment No. 2",
           "precincts": {
-            "reported": 0,
+            "reported": 2,
             "total": 3235
           },
           "candidates": {
             "": [
               {
                 "name": "YES",
-                "votes": 0,
-                "vote_pct": "0.000%"
+                "votes": 387,
+                "vote_pct": "81.646%"
               },
               {
                 "name": "NO",
-                "votes": 0,
-                "vote_pct": "0.000%"
+                "votes": 87,
+                "vote_pct": "18.354%"
               }
             ]
           },
@@ -5134,20 +5134,20 @@
         {
           "office": "Constitutional Amendment No. 4",
           "precincts": {
-            "reported": 0,
+            "reported": 2,
             "total": 3235
           },
           "candidates": {
             "": [
               {
                 "name": "YES",
-                "votes": 0,
-                "vote_pct": "0.000%"
+                "votes": 472,
+                "vote_pct": "32.043%"
               },
               {
                 "name": "NO",
-                "votes": 0,
-                "vote_pct": "0.000%"
+                "votes": 1001,
+                "vote_pct": "67.957%"
               }
             ]
           },
@@ -5156,20 +5156,20 @@
         {
           "office": "Constitutional Amendment No. 5",
           "precincts": {
-            "reported": 0,
+            "reported": 2,
             "total": 3235
           },
           "candidates": {
             "": [
               {
                 "name": "YES",
-                "votes": 0,
-                "vote_pct": "0.000%"
+                "votes": 349,
+                "vote_pct": "23.533%"
               },
               {
                 "name": "NO",
-                "votes": 0,
-                "vote_pct": "0.000%"
+                "votes": 1134,
+                "vote_pct": "76.467%"
               }
             ]
           },
